@@ -1,0 +1,1 @@
+Your code will outlive you; write it like the next developer is you, on your worst day, at 3 a.m.
